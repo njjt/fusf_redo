@@ -1,4 +1,4 @@
-# 3D Hydrophone Scanner System
+# 3D Hydrophone Scanner System Set Up
 
 Step 1: Connect Oscilloscope
 Steps to use DS4024:
