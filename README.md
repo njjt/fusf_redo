@@ -1,4 +1,4 @@
-# fusf_redo
+# 3D Hydrophone Scanner System
 
 Step 1: Connect Oscilloscope
 Steps to use DS4024:
